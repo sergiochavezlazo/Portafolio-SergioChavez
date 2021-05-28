@@ -1,3 +1,3 @@
-# Sergio_portafolio
+# Project N° 1
 My projects in this journey.
 ### Hello
