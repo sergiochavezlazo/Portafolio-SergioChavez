@@ -1,4 +1,3 @@
-# Sergio_portafolio
 # <h1><center><font color='black'>Pokemon's Stats Analysis</font> </center></h1>
 
 *Sergio Chavez Lazo*
